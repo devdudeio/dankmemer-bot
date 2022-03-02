@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "dude.vrsc@",
   "license": "ISC",
   "dependencies": {
     "robotjs": "^0.6.0"
